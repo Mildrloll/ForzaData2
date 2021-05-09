@@ -3,6 +3,7 @@ require_once 'connect.php';
 $query = "SELECT year, manufacturer, model, value, division, pi, engine, engine_layout, drivetrain, power_kw, touge_nm, weight_kg, top_speed_kph, lap_time FROM cardata";
 $response = @mysqli_query($con, $query);
 echo '<a href="/Mysqltest/forside.php">Back</a><br>';
+echo '<a href="/Mysqltest/adddata.php">Add Data</a><br>';
 if ($response) {
     echo '<table align="left" cellspacing="5" cellpadding="8">
     <tr><td align="left"><b>Year</b></td>

@@ -9,12 +9,12 @@
 </head>
 
 <body>
-    <a href="/Mysqltest/getdata.php">Show All Data </a><br>
-    <a href="/Mysqltest/getpower.php">Show Power </a><br>
-    <a href="/Mysqltest/gettouge.php">Show Torque </a><br>
-    <a href="/Mysqltest/getweight.php">Show Weight </a><br>
-    <a href="/Mysqltest/gettopspeed.php">Show Top Speed </a><br>
-    <a href="/Mysqltest/getlaptime.php">Show Lap Time </a><br>
+    <button onclick="window.location.href='/Mysqltest/getdata.php'">Show All Data </button><br>
+    <button onclick="window.location.href='/Mysqltest/getpower.php'">Show Power </button><br>
+    <button onclick="window.location.href='/Mysqltest/gettouge.php'">Show Torque </button><br>
+    <button onclick="window.location.href='/Mysqltest/getweight.php'">Show Weight </button><br>
+    <button onclick="window.location.href='/Mysqltest/gettopspeed.php'">Show Top Speed </button><br>
+    <button onclick="window.location.href='/Mysqltest/getlaptime.php'">Show Lap Time </button><br>
 </body>
 
 </html>
