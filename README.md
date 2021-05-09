@@ -3,7 +3,7 @@
 <h2>Dette er min Forza Stats site som visser forskille data far spiller Forza Motorsport 8</h2>
 
 På Forside.php er der knapper så man kan naviger immellem de ænadre sider.
-
+![alt text](https://media.discordapp.net/attachments/690105696183779328/841000200889434122/Skrmbillede_3.png?width=1248&height=702)
 På Getdata.php visser alt data som er indsamelet og visser dem i den order som de er skrevet ind.
 
 Også på Getdata.php er der et link til Adddata.php hvor man kan tilføre mere data.
